@@ -10,6 +10,8 @@ public class mian{
         l1.insertLast(99);
         l1.insert(55,3);
         System.out.println(l1.deleteFirst());
+        l1.get(4);
+        l1.find(35);
 //        l1.display();
         System.out.println(l1.deleteLast());
         l1.display();
